@@ -1,4 +1,3 @@
-```markdown
 # Unit Testing with JUnit: Calculator Operations
 
 This project demonstrates unit testing with JUnit for basic arithmetic operations using a `Calculator` class. The project focuses on writing and executing tests for edge cases, exception handling, and achieving reliable code quality.
@@ -176,4 +175,3 @@ public void testDivideEdgeCase() {
 - **GitHub**: [Son-Tung](https://github.com/Son-Tung)
 
 Feel free to contribute or open issues for improvement!
-```
