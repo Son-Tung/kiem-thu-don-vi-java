@@ -1,6 +1,6 @@
 package com.example.test;
 
-import com.example.Calculator;
+import com.example.mavenproject1.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
